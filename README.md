@@ -38,7 +38,7 @@ This analysis combines exploratory data analysis, visualization, and storytellin
 
 2. **Exploratory Analysis**
    - Investigated global and regional distributions of compensation, tools, and technologies  
-   - Focused on U.S. respondents for detailed compensation insights  
+   - Focused on U.S. respondents for detailed compensation insights related to remote work, work experience, and education level. 
 
 3. **Statistical & Visual Analysis for U.S.A Full-Time Employed Developers**
    - Explored correlations between:
