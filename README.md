@@ -4,8 +4,9 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=plotly)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Graphics-9cf?logo=seaborn)
 
 ---
 
