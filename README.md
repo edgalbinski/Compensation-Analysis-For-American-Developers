@@ -52,7 +52,20 @@ This analysis combines exploratory data analysis, visualization, and storytellin
 
 ## 📊 Results
 
-> *(Visualizations and charts are embedded in the Jupyter Notebook.)*
+<p align="center">
+  <img src="https://github.com/edgalbinski/Compensation-Analysis-For-American-Developers/blob/main/Images/compensation_by_experience.png?raw=true" width="45%">
+  <img src="https://github.com/edgalbinski/Compensation-Analysis-For-American-Developers/blob/main/Images/compensation_by_remotework.png?raw=true" width="45%">
+  <br>
+  <em>Figure 1: Average Yearly Compensation by Years of Experience (left) and by Remote Work Status (right) — USA, Full-Time Employed</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/edgalbinski/Compensation-Analysis-For-American-Developers/blob/main/Images/compensation_by_lang%26dbs.png?raw=true" width="65%">
+  <br>
+  <em>Figure 2: Average Yearly Compensation by Programming Languages and Databases — USA, Full-Time Employed</em>
+</p>
+
+
 
 ### 🌍 **Global Highlights**
 - Most respondents are from **Europe** and **North America**.
